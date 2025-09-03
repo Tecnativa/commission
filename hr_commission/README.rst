@@ -44,8 +44,8 @@ created.
 Known issues / Roadmap
 ======================
 
--  Add demo data.
--  Link settlements with wages.
+- Add demo data.
+- Link settlements with wages.
 
 Bug Tracker
 ===========
@@ -68,14 +68,14 @@ Authors
 Contributors
 ------------
 
--  `Tecnativa <https://www.tecnativa.com>`__
+- `Tecnativa <https://www.tecnativa.com>`__
 
-   -  Pedro M. Baeza
-   -  Jo??o Marques
-   -  Ernesto Garc??a
+  - Pedro M. Baeza
+  - Jo??o Marques
+  - Ernesto Garc??a
 
--  Rattapong C. <rattapongc@ecosoft.co.th>
--  Mina S. Wahib minaw368@gmail.com
+- Rattapong C. <rattapongc@ecosoft.co.th>
+- Mina S. Wahib minaw368@gmail.com
 
 Maintainers
 -----------
